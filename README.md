@@ -18,6 +18,7 @@ OUTPUT EXAMPLES
 
  BINARY FILES:
  
-![Screenshot 2021-11-24 232806](https://user-images.githubusercontent.com/82722644/143315166-cc29163a-ee51-40ce-a8a0-bd54ceadfeaa.png)
+
+![ASDF](https://user-images.githubusercontent.com/82722644/143316254-2bff8471-df5c-4298-bab3-469612c59ddd.png)
 
 ![Screenshot 2021-11-24 232820](https://user-images.githubusercontent.com/82722644/143315178-bad38732-1352-4718-b5d1-2409b936db8d.png)
